@@ -1,9 +1,10 @@
 ---
 external: false
-draft: true
-title: Hello World
-description: It's a beautiful world out there.
-date: 2022-11-05
+title: Sálem dúnya
+description: Birinshi post
+date: 2022-10-04
 ---
 
-It's a beautiful world out there.
+![Screenshot](https://abatme.s3.amazonaws.com/2022-10-04/hello-world-c8fe.jpg)
+
+## Sálem dúnya!
